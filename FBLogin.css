@@ -1,0 +1,17 @@
+@charset "UTF-8";
+div {
+	border: 2px solid;
+	background-color: #CC9900;
+	height: 330px;
+	width: 305px;
+	float: none;
+	min-width: 0;
+	margin-left: 35%;
+	border-radius: 25px;
+	margin-top: 4%;
+	left: 0%;
+	color: #443300;
+	position: relative;
+	top: 37px;
+	font-size: 24px;
+}
